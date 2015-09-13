@@ -48,6 +48,7 @@ fitOnline = engine.PPGPFAfit(
  	inferenceMethod = 'laplace',
 	batchSize 		= 5)
 
+# Make plots
 training_set.plotTrajectory();plt.show()
 fitBatch.plotParamSeq()
 fitOnline.plotParamSeq();plt.show()
