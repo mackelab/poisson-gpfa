@@ -16,7 +16,7 @@ In particular, the repository includes methods for
 
 ## Usage
 
-To get started the the example script either by `python example.py` in bash or`run example.py` inside iPython. The software is developed within the Anaconda python 3 environment. 
+To get started, run the example script either by `python example.py` in bash or`run example.py` in iPython. The software is developed within the Anaconda python 3 environment. 
 
 If you notice a bug, want to request a feature, or have a question or feedback, please make use of the issue-tracking capabilities of the repository. We love to hear from people using our code -- please send an email to info@mackelab.org.
 
