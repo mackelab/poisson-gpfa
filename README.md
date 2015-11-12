@@ -14,6 +14,14 @@ In particular, the repository includes methods for
      * Full EM, where all available trials are processed in each iteration
      * Variants of stochastic EM, where a subset of avilable trials are processed in each iteration
 
+## Requirements
+
+* matplotlib == 1.4.3
+* pandas == 0.16.2
+* numpy == 1.10.1
+* scipy == 0.16.1
+* statsmodels == 0.6.1
+
 ## Usage
 
 To get started, run the example script either by `python example.py` in bash or`run example.py` in iPython. The software is developed within the Anaconda python 3 environment. 
